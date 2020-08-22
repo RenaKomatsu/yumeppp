@@ -10,10 +10,10 @@
       <dd class="f2 f-subheadline-l fw6 ml0">YUMEP kawaii</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
-      <dd class="f2 f-subheadline-l fw6 ml0">saikou</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">すごい</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
-      <dd class="f2 f-subheadline-l fw6 ml0">それがある</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">すごすぎ</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
       <dd class="f2 f-subheadline-l fw6 ml0">ゆめぴ</dd>
