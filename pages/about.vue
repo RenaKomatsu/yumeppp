@@ -13,16 +13,13 @@
       <dd class="f2 f-subheadline-l fw6 ml0">saikou</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
-      <dd class="f6 fw4 ml0">Days Left</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">4</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">それがある</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
-      <dd class="f6 fw4 ml0">Favorite Cat</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">All of Them</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">ゆめぴ</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title">
-      <dd class="f6 fw4 ml0">App Downloads</dd>
-      <dd class="f2 f-subheadline-l fw6 ml0">1,200</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">明日で100日おめでとう</dd>
     </dl>
   </div>
 </article>
