@@ -4,7 +4,7 @@
   <div class="cf">
     <dl class="db dib-l w-auto-l lh-title mr6-l">
  
-      <dd class="f2 f-subheadline-l fw6 ml0">RENA dayo</dd>
+      <dd class="f2 f-subheadline-l fw6 ml0">完全に理解した！！！！！！！！！！！！！！</dd>
     </dl>
     <dl class="db dib-l w-auto-l lh-title mr6-l">
       <dd class="f2 f-subheadline-l fw6 ml0">YUMEP kawaii</dd>
